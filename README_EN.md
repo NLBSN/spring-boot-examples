@@ -23,9 +23,6 @@ Spring Boot examples, using the simplest and the most useful scene demos.
 - [spring-boot-webflux](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-webflux) ：Spring Boot webflux demo
 - [spring-boot-elasticsearch](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-elasticsearch) ：Spring Boot elasticsearch demo
 - [spring-boot-swagger](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-swagger) ：Spring Boot swagger2 demo
-- [spring-boot-mybatis-plus](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-plus) ：Spring Boot MyBatis Plus demo
-
-
 ---
 
 ## Spring Boot （Already upgraded to 2.x）
